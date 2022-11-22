@@ -4,6 +4,10 @@ termius下载
 ```
 https://termius.com/windows
 ```
+axs内测版固件 google下载
+```
+https://drive.google.com/file/d/1EfuEio1icCz2eJAI4RhMcTmXPk7rwkY3/view?usp=share_link
+```
 
 链接好路由器
 复制好订阅号
