@@ -1,5 +1,10 @@
 ## 安装教学
 
+termius下载
+```
+https://termius.com/windows
+```
+
 链接好路由器
 复制好订阅号
 
